@@ -1,10 +1,9 @@
-Desenvolvedor Full Stack em evolução com experiência prática em construção de sistemas reais e integrações complexas.  
-
+Desenvolvedor Full Stack
 Conhecimento em (mas não se limitando a):  
 
 ⚡ JavaScript 🟦 TypeScript 🟢 Node.js 🌐 HTML 🎨 CSS  
 🛢️ PostgreSQL 🧠 Supabase 🔗 APIs REST 💳 Stripe  
-🏦 Banco Inter API 🐳 Docker 🧩 Microserviços  
+🏦 Banco Inter API 🐳 Docker 🧩 Microserviços 
 🧠 IA (Copilot, Codex, Claude) ⚙️ Automação  
 🧱 WordPress (PHP) 🎯 UI/UX  
 
